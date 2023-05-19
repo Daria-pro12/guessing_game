@@ -1,0 +1,40 @@
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+    box-sizing: content-box;
+}
+
+.card-header {
+    color: black;
+    font-weight: bold;
+    background-color: rgb(255, 227, 194);
+}
+
+.card {
+    border: 2px solid black;
+}
+
+.btn-info {
+    background-color: #295369;
+    border: none;
+    
+}
+
+#btnLess, #btnOver, #btnEqual {
+    margin: 0 15px 0 15px;
+    border-radius: 5px;
+}
+
+.card {
+    display: inline-block;
+}
+
+h3 {
+    font-size: 16px;
+}
+
+.btn-link {
+    font-size: 14px;
+    color: crimson;
+    font-weight: bold;
+}
